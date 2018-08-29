@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "961977831636",
+    "firebase_url": "https://datacollectorbackend.firebaseio.com",
+    "project_id": "datacollectorbackend",
+    "storage_bucket": "datacollectorbackend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961977831636:android:7491dfd95da55e26",
+        "android_client_info": {
+          "package_name": "com.Parsakon.Datacollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "961977831636-1uctg9rm98km7f0j1e2hlehp5nls07v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0HHlGGjyBi797r0arPG590D8I5DvLgAw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
