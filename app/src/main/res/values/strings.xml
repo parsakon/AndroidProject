@@ -1,10 +1,11 @@
 <resources>
     <string name="app_name">Data Collector</string>
-    <string name="username">Create a username</string>
+    <string name="firstname">Enter your first name</string>
     <string name="email">Enter your email</string>
     <string name="password">Enter a password</string>
     <string name="passwordConfirm">Confirm password</string>
     <string name="signUp">Sign Up</string>
     <string name="login">Login</string>
     <string name="textView1">Already have an account?</string>
+    <string name="lastname">Enter your last name</string>
 </resources>

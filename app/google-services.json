@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "961977831636-6bcko3r5f1536brnv6pmtl7rma7a5cb3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Parsakon.Datacollector",
+            "certificate_hash": "0c7f6b1a5fac89cd8f57ccafffb61c9c5e3d2981"
+          }
+        },
+        {
           "client_id": "961977831636-1uctg9rm98km7f0j1e2hlehp5nls07v5.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "961977831636-1uctg9rm98km7f0j1e2hlehp5nls07v5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
